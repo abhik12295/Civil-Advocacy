@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Civil Advocacy</string>
+    <string name="menuInfo">Info</string>
+    <string name="menuSearch">Search</string>
+    <string name="mainLocation">Chicago, IL 60601</string>
+    <string name="dialogTitle">Enter Address</string>
+    <string name="invalidLocation">Please enter valid location !!</string>
+    <string name="noInternet">No Internet Connection.</string>
+    <string name="noLocationPermission">Data can not be accessed/loaded without location access permission.</string>
+    <string name="noInternetDialogMsg">Data can not be accessed/loaded without an internet connection.</string>
+    <string name="noLocation">No Data For Location</string>
+    <string name="officialOffice">Vice President of the United States</string>
+    <string name="officialName">Kamala D. Harris</string>
+    <string name="officialParty">Democratic party</string>
+    <string name="officialAddress">Address:</string>
+    <string name="phoneLabelOfficial">Phone:</string>
+    <string name="emailLabelOfficial">Email:</string>
+    <string name="websiteLabelOfficial">Website:</string>
+    <string name="noDataOfficials">No data available for this officials</string>
+    <string name="providedByLabelAbout">Data provided by</string>
+    <string name="versionNumber">Version 1.0</string>
+    <string name="googleCivicInfoApiLabelAbout"><u>Google Civic Information API</u></string>
+    <string name="civilAdvocacyAbout">Civil Advocacy</string>
+    <string name="noPhotoOfficials">No photo for this officials</string>
+    <string name="noEmailClientOfficials">There is no application exist to send an email.</string>
+    <string name="noCallApplicationOfficials">There is no application exist to make a call.</string>
+    <string name="noApplicationOfficial">There is no application (map) to open address.</string>
+</resources>
